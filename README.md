@@ -1,2 +1,1 @@
-# surya
-My personal repository
+AI based diacourse for bankking industry
